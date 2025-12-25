@@ -1,6 +1,6 @@
 import Home from './components/Home/Home.jsx'
 import CategoryMeals from './pages/CategoryMeals.jsx'
-import MainLayout from './Layout/mainLayout.jsx'
+import MainLayout from './Layout/MainLayout.jsx'
 import NotFound from './components/NotFound/NotFound.jsx'
 import DetailsMeal from './pages/DetailsMeal.jsx'
 
